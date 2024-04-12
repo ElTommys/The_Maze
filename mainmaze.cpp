@@ -12,3 +12,6 @@ int main(){
 	laberinto.imprimir();
 	return 0;
 }
+
+
+//hola bro
