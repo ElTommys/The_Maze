@@ -11,7 +11,13 @@ int main(){
 	laberinto.fin();
 	laberinto.imprimir();
 	return 0;
+
+//hola bro
+
+
+int a;
+
 }
 
 
-//hola bro
+
